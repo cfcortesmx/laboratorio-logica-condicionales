@@ -1,0 +1,26 @@
+{
+  "name": "laboratorio-logica-condicionales",
+  "version": "1.0.0",
+  "description": "Laboratorio Virtual Interactivo para Lógica Booleana y Control de Flujo Condicional en TypeScript - Universidad de Colima",
+  "main": "src/app.ts",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "typescript",
+    "educacion",
+    "logica-booleana",
+    "condicionales",
+    "algoritmos",
+    "universidad-de-colima"
+  ],
+  "author": "Dr. Carlos Flores <cfcortes@ucol.mx>",
+  "license": "CC-BY-NC-SA-4.0",
+  "devDependencies": {
+    "typescript": "^5.6.2",
+    "vitest": "^2.1.1"
+  }
+}
