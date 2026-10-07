@@ -60,5 +60,4 @@ npm run test:watch
 
 * **Tipo de recurso:** Aplicación o software / Ejercicio interactivo
 * **Nivel de agregación:** Nivel 2 (Colección estructurada de módulos)
-* **Puntaje ESDEPED:** 15 Puntos (Rubro `I.I.9`)
 * **Dependencia:** Facultad de Telemática, Universidad de Colima
